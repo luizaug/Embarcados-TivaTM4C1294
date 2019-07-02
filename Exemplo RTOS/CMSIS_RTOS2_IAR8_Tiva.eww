@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\blinky\blinky.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\driverlib\driverlib.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\CMSIS\RTOS2\RTX\Library\IAR\IDE\RTX_CM.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\sinalizador\sinalizador.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\tarefas\tarefas.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\temporizador\temporizador.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
